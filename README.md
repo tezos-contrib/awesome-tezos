@@ -88,15 +88,19 @@ Table of Content
 
 - [Kukai](https://wallet.kukai.app/)
 - [Atomex](https://atomex.me/)
+  > Also available for mobile and desktop
 
 #### Mobile Wallets
 
-- [AirGap](https://airgap.it/)
 - [ZenGo](https://www.zengo.com/)
-- [Guarda](https://guarda.com/)
 - [Magma](https://magmawallet.io/)
 - [Atomex](https://atomex.me/)
+- [Guarda](https://guarda.com/)
+  > Also available for desktop
+- [AirGap](https://airgap.it/)
+  > Also available for desktop and can be used as airgapped hardware wallet
 - [Exodus](https://www.exodus.com/)
+  > Also available for desktop
 
 #### Desktop Wallets
 
