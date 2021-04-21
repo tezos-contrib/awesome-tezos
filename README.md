@@ -95,7 +95,7 @@ Table of Content
 
 #### Desktop Wallets
 
-- [Umami Wallet](https://umamiwallet.com/)
+- [Umami](https://umamiwallet.com/)
 - [AirGap](https://airgap.it/)
 - [Galleon](https://cryptonomic.tech/galleon.html)
 - [Tezbox](https://tezbox.com/)
