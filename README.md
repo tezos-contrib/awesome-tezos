@@ -50,13 +50,15 @@ Table of Content
 ### Blockchain Explorers
 
 - [TzStats](https://tzstats.com/)
-- [TzKT](https://tzkt.io/)
+- [tezblock](https://tezblock.io/)
 - [Blockchair](https://blockchair.com/tezos)
+- [TezTracker](https://teztracker.com/en/mainnet/)
+- [TzKT](https://tzkt.io/)
+  > TzKT is a user-friendly and highly detailed Tezos block explorer
 - [Better Call Dev](https://better-call.dev/)
   > Tezos smart contract explorer and developer dashboard
-- [tezblock](https://tezblock.io/)
 - [Arronax](https://arronax.io/tezos/mainnet/blocks)
-- [TezTracker](https://teztracker.com/en/mainnet/)
+  > Blockchain Analytics Tool
 
 ### Tezos Smart Contract Languages
 
