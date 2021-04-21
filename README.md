@@ -25,10 +25,7 @@ Table of Content
 
 ### Tezos
 
-> Tezos is a distributed consensus platform with meta-consensus
-> capability. Tezos not only comes to consensus about the state of its ledger,
-> like Bitcoin or Ethereum. It also comes to consensus about how the
-> protocol and the nodes should adapt and upgrade.
+> Tezos is an open-source, community-governed, blockchain network capable of running complex smart contracts for asset settlement and decentralized applications (dApps) which benefit from censorship resistance, decentralization, and user-control.
 
 #### Tezos General Resources
 
