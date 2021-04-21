@@ -104,4 +104,4 @@ Table of Content
 
 - [AirGap](https://airgap.it/)
 - [Trezor Model T](https://trezor.io/)
-- [Ledger Hardware Wallet](https://www.ledger.com/)
+- [Ledger](https://www.ledger.com/)
