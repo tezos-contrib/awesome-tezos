@@ -87,10 +87,16 @@ Table of Content
 #### Web Wallets
 
 - [Kukai](https://wallet.kukai.app/)
+- [Atomex](https://atomex.me/)
 
 #### Mobile Wallets
 
 - [AirGap](https://airgap.it/)
+- [ZenGo](https://www.zengo.com/)
+- [Guarda](https://guarda.com/)
+- [Magma](https://magmawallet.io/)
+- [Atomex](https://atomex.me/)
+- [Exodus](https://www.exodus.com/)
 
 #### Desktop Wallets
 
@@ -98,6 +104,9 @@ Table of Content
 - [AirGap](https://airgap.it/)
 - [Galleon](https://cryptonomic.tech/galleon.html)
 - [Tezbox](https://tezbox.com/)
+- [Guarda](https://guarda.com/)
+- [Atomex](https://atomex.me/)
+- [Exodus](https://www.exodus.com/)
 
 #### Hardware Wallets
 
