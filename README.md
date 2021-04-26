@@ -40,9 +40,9 @@ Table of Content
 - [Agora Forum](https://forum.tezosagora.org/)
 - [Tezos StackExchange](https://tezos.stackexchange.com/)
 - [Tezos Riot Chat](https://riot.tzchat.org/)
-- [Tezos Discord](https://discord.com/invite/udZwhQn)
 - [Tezos Reddit](https://www.reddit.com/r/tezos)
-- [Tezos Telegram](https://t.me/tezosplatform)
+- [Tezos Platform Telegram](https://t.me/tezosplatform)
+- [Tezos Developers Telegram](https://t.me/TezosDevelopers)
 
 ### Blockchain Explorers
 
