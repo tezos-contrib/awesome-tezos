@@ -20,6 +20,7 @@ Table of Content
   - [Mobile Wallets](#mobile-wallets)
   - [Desktop Wallets](#desktop-wallets)
   - [Hardware Wallets](#hardware-wallets)
+- [Public Nodes](#public-nodes)
 
 ---
 
@@ -117,3 +118,13 @@ Table of Content
 - [AirGap](https://airgap.it/)
 - [Trezor Model T](https://trezor.io/)
 - [Ledger](https://www.ledger.com/)
+
+### Public Nodes
+
+- [Tezos Giga Node](https://tezos.giganode.io/)
+- [Smartpy](https://smartpy.io/nodes)
+- Nodes operated by Blockscale on behalf of the Tezos Foundation
+    - [Mainnet](https://rpc.tzbeta.net/)
+    - [Testnet](https://rpczero.tzbeta.net/)
+- ECAD Labs nodes
+    - [Mainnet](https://api.tez.ie/rpc/mainnet)
