@@ -21,6 +21,7 @@ Table of Content
   - [Desktop Wallets](#desktop-wallets)
   - [Hardware Wallets](#hardware-wallets)
 - [Public Nodes](#public-nodes)
+- [Frameworks](#frameworks)
 
 ---
 
@@ -128,3 +129,10 @@ Table of Content
     - [Testnet](https://rpczero.tzbeta.net/)
 - ECAD Labs nodes
     - [Mainnet](https://api.tez.ie/rpc/mainnet)
+
+### Frameworks
+
+- [DipDup](https://github.com/dipdup-net/dipdup-py)
+  > Python SDK for developing indexers of Tezos smart contracts inspired by The Graph.
+- [Chinstrap]
+  > A development environment, testing framework, and origination pipeline focused solely on Tezos.
