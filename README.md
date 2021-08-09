@@ -134,5 +134,5 @@ Table of Content
 
 - [DipDup](https://github.com/dipdup-net/dipdup-py)
   > Python SDK for developing indexers of Tezos smart contracts inspired by The Graph.
-- [Chinstrap]
+- [Chinstrap](https://github.com/ant4g0nist/chinstrap)
   > A development environment, testing framework, and origination pipeline focused solely on Tezos.
