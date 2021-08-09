@@ -21,7 +21,7 @@ Table of Content
   - [Desktop Wallets](#desktop-wallets)
   - [Hardware Wallets](#hardware-wallets)
 - [Public Nodes](#public-nodes)
-- [Frameworks](#frameworks)
+- [Framework and libraries](#frameworks-and-libraries)
 
 ---
 
@@ -130,9 +130,13 @@ Table of Content
 - ECAD Labs nodes
     - [Mainnet](https://api.tez.ie/rpc/mainnet)
 
-### Frameworks
+### Frameworks and libraries
 
-- [DipDup](https://github.com/dipdup-net/dipdup-py)
+- [Taquito](https://tezostaquito.io/)
+  > A library for building dApps on the Tezos Blockchain - JavaScript / TypeScript
+- [PyTezos](https://pytezos.org/)
+  > A Python library for interacting with Tezos blockchain, testing smart contracts, and writing Michelson scripts.
+- [DipDup](https://dipdup.net/)
   > Python SDK for developing indexers of Tezos smart contracts inspired by The Graph.
 - [Chinstrap](https://github.com/ant4g0nist/chinstrap)
   > A development environment, testing framework, and origination pipeline focused solely on Tezos.
