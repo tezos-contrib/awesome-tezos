@@ -122,13 +122,16 @@ Table of Content
 
 ### Public Nodes
 
-- [Tezos Giga Node](https://tezos.giganode.io/)
+- [Tezos Giga Node](https://giganode.io/)
 - [Smartpy](https://smartpy.io/nodes)
 - Nodes operated by Blockscale on behalf of the Tezos Foundation
     - [Mainnet](https://rpc.tzbeta.net/)
     - [Testnet](https://rpczero.tzbeta.net/)
 - ECAD Labs nodes
-    - [Mainnet](https://api.tez.ie/rpc/mainnet)
+    - [Mainnet](https://mainnet.api.tez.ie/)
+- LetzBake!
+    - [Mainnet](https://teznode.letzbake.com/)
+
 
 ### Frameworks and libraries
 
