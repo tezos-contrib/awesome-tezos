@@ -45,6 +45,7 @@ Table of Content
 - [Tezos Reddit](https://www.reddit.com/r/tezos)
 - [Tezos Platform Telegram](https://t.me/tezosplatform)
 - [Tezos Developers Telegram](https://t.me/TezosDevelopers)
+- [Tezos Discord Server](https://discord.com/invite/udZwhQn)
 
 ### Blockchain Explorers
 
